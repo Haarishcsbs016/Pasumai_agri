@@ -1,175 +1,231 @@
-# 🌱 PasumaiAI – Intelligent Smart Agriculture Platform
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <b>Empowering Farmers Through Artificial Intelligence, Machine Learning and Smart Technology</b>
-</p>
+<div align="center">
 
-## 📌 Overview
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:34d399&height=220&section=header&text=PasumaiAI&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Smart%20Agriculture%20Powered%20by%20AI&descAlignY=58&animation=fadeIn" width="100%" />
 
-**PasumaiAI** is an AI-powered smart agriculture platform designed to support farmers by integrating Artificial Intelligence, Machine Learning, weather intelligence, and digital marketplaces into a unified ecosystem.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Smart+Agriculture+%F0%9F%8C%B1;AI-Powered+Crop+Disease+Detection+%F0%9F%A4%96;Intelligent+Crop+Price+Prediction+%F0%9F%93%88;Building+a+Greener+Agricultural+Future+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
 
-Traditional farming often faces challenges such as unpredictable weather, crop diseases, fluctuating market prices, inefficient irrigation practices, and limited access to agricultural resources.
+<br/>
 
-PasumaiAI addresses these challenges through intelligent digital solutions that help farmers make data-driven decisions, improve agricultural productivity, reduce crop losses, and increase profitability.
+<img src="https://img.shields.io/badge/Domain-Smart%20Agriculture-16a34a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Machine%20Learning-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Web%20%26%20Mobile-0d9488?style=for-the-badge" />
 
-The platform provides a user-friendly web and mobile experience, enabling farmers to access essential agricultural services from a single application.
+<br/><br/>
 
-## 🎯 Objectives
+**🌾 Empowering Farmers | 🤖 Artificial Intelligence | 🌍 Sustainable Agriculture**
 
-- Improve agricultural productivity through intelligent technologies.
-- Help farmers identify crop diseases at an early stage.
-- Predict crop prices to support better selling decisions.
-- Provide weather-based agricultural recommendations.
-- Optimize irrigation and water management.
-- Connect farmers directly with buyers.
-- Provide access to agricultural machinery and equipment.
-- Promote sustainable farming and smart waste management.
+</div>
 
-## ✨ Key Features
+---
 
-### 1. 🌾 Crop Information Management
-- Provides detailed information about different crops.
-- Displays crop requirements, growing conditions, and cultivation guidance.
-- Helps farmers understand suitable crops for their agricultural conditions.
-- Provides centralized access to agricultural information.
+## 🌱 About PasumaiAI
 
-### 2. 🤖 AI-Based Crop Disease Detection
-- Allows farmers to upload images of crop leaves.
-- Uses a trained deep learning model to analyze uploaded images.
-- Identifies potential crop diseases based on image patterns.
-- Provides disease-related information and preventive recommendations.
-- Helps farmers identify crop health issues at an early stage.
+**PasumaiAI** is an intelligent, AI-powered smart agriculture platform designed to transform traditional farming into a technology-driven ecosystem.
 
-### 3. 📈 Crop Price Prediction
-- Uses historical agricultural market data to predict crop prices.
-- Applies machine learning techniques to identify price trends.
-- Helps farmers estimate future market prices.
-- Supports informed decisions about when to sell agricultural products.
+The platform integrates Artificial Intelligence, Machine Learning, Deep Learning, and modern web and mobile technologies to help farmers make smarter agricultural decisions.
 
-### 4. 🌦️ Weather Prediction and Monitoring
-- Provides weather information for agricultural locations.
-- Displays important weather conditions such as temperature and rainfall.
-- Helps farmers plan cultivation and harvesting activities.
-- Supports better agricultural decisions based on weather conditions.
+From identifying crop diseases and predicting market prices to monitoring weather conditions and accessing agricultural marketplaces, PasumaiAI brings essential farming solutions together in one unified platform.
 
-### 5. 💧 Smart Irrigation and Notifications
-- Provides irrigation-related recommendations.
-- Supports water-efficient farming practices.
-- Generates notifications for important agricultural activities.
-- Helps farmers manage irrigation schedules more effectively.
+Our mission is to empower farmers with intelligent tools, improve agricultural productivity, minimize crop losses, and promote sustainable farming practices.
 
-### 6. 🛒 Agricultural Marketplace
-- Enables farmers to list and sell their homegrown agricultural products.
-- Connects farmers directly with potential buyers.
-- Supports digital product listings and marketplace interactions.
-- Helps reduce dependency on traditional selling channels.
+---
 
-### 7. 🚜 Agricultural Machinery Rental
-- Provides a platform for farmers to access agricultural equipment.
-- Allows machinery owners to list available equipment.
-- Helps farmers find and rent machinery when required.
-- Reduces the need for every farmer to purchase expensive equipment.
+## 🚀 Key Features
 
-### 8. ♻️ Smart Waste Management
-- Encourages the effective utilization of agricultural waste.
-- Promotes recycling and sustainable agricultural practices.
-- Supports better agricultural resource management.
-- Helps reduce unnecessary agricultural waste.
+<table>
+<tr>
+<td width="50%">
 
-## 🛠️ Technology Stack
+### 🌾 Crop Information
+- Detailed crop information.
+- Cultivation guidance.
+- Crop requirements.
+- Agricultural knowledge.
 
-| Category | Technologies |
-|---|---|
-| Web Frontend | Next.js, React.js |
-| Mobile Application | React Native |
-| Styling | Tailwind CSS |
-| Backend / API | Python, FastAPI |
-| Database | PostgreSQL, MongoDB |
-| Authentication | Firebase Authentication |
-| Machine Learning | Python, Scikit-learn |
-| Deep Learning | TensorFlow, Keras |
-| Model Storage | Pickle (.pkl), HDF5 (.h5) |
-| Development Tools | VS Code, Git, GitHub |
+</td>
+<td width="50%">
+
+### 🤖 AI Disease Detection
+- Upload crop leaf images.
+- Deep learning-based analysis.
+- Disease identification.
+- Preventive recommendations.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Crop Price Prediction
+- Machine learning predictions.
+- Historical price analysis.
+- Market trend estimation.
+- Better selling decisions.
+
+</td>
+<td width="50%">
+
+### 🌦️ Weather Monitoring
+- Weather information.
+- Temperature monitoring.
+- Rainfall updates.
+- Weather-based farming decisions.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💧 Smart Irrigation
+- Irrigation recommendations.
+- Water management.
+- Farming notifications.
+- Efficient resource utilization.
+
+</td>
+<td width="50%">
+
+### 🛒 Farmer Marketplace
+- Sell homegrown products.
+- Digital product listings.
+- Connect farmers and buyers.
+- Agricultural product marketplace.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚜 Machinery Rental
+- Agricultural equipment listings.
+- Machinery rental services.
+- Access farming resources.
+- Reduce equipment costs.
+
+</td>
+<td width="50%">
+
+### ♻️ Smart Waste Management
+- Agricultural waste utilization.
+- Sustainable farming practices.
+- Resource management.
+- Waste reduction.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+
+### 🗄️ Database & Authentication
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+
+### 🧠 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,python" />
+
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
 
 ## 🧠 AI & Machine Learning Models
 
-PasumaiAI integrates machine learning and deep learning models to provide intelligent agricultural solutions.
+PasumaiAI integrates intelligent models to provide data-driven agricultural solutions.
 
-| Model | Purpose |
-|---|---|
-| `price_model.pkl` | Predicts agricultural crop prices |
-| `leaf_disease_model.h5` | Identifies crop diseases using leaf images |
+| Model | Technology | Function |
+|---|---|---|
+| Crop Price Prediction | Scikit-learn | Predicts estimated agricultural market prices |
+| Crop Disease Detection | TensorFlow / Keras | Identifies possible crop diseases from leaf images |
 
-**Crop Price Prediction:**
+**Model Files:**
 
-The trained machine learning model processes relevant agricultural input data and generates estimated crop prices.
+- `price_model.pkl` – Trained crop price prediction model.
+- `leaf_disease_model.h5` – Trained crop disease detection model.
 
-**Crop Disease Detection:**
-
-The deep learning model analyzes uploaded leaf images and predicts the possible disease category.
+---
 
 ## 🏗️ System Architecture
 
-The platform follows a modular architecture that connects the frontend, backend, databases, authentication services, and machine learning models.
-
 ```mermaid
 flowchart TD
-    A[Farmer / User] --> B[Web Application - Next.js]
-    A --> C[Mobile Application - React Native]
+    A["👨‍🌾 Farmer"] --> B["Web Application"]
+    A --> C["Mobile Application"]
 
-    B --> D[Backend - FastAPI]
+    B --> D["FastAPI Backend"]
     C --> D
 
-    D --> E[Firebase Authentication]
-    D --> F[PostgreSQL / MongoDB]
+    D --> E["Firebase Authentication"]
+    D --> F["PostgreSQL / MongoDB"]
 
-    D --> G[AI & ML Services]
+    D --> G["AI & ML Services"]
 
-    G --> H[Crop Price Prediction]
-    G --> I[Crop Disease Detection]
-    G --> J[Weather & Irrigation]
+    G --> H["Crop Price Prediction"]
+    G --> I["Disease Detection"]
+    G --> J["Weather & Irrigation"]
 
-    D --> K[Agricultural Marketplace]
-    D --> L[Machinery Rental]
-    D --> M[Waste Management]
+    D --> K["Agricultural Marketplace"]
+    D --> L["Machinery Rental"]
+    D --> M["Waste Management"]
 ```
 
-## 🔄 How the System Works
+---
 
-1. **User Registration:** Farmers register and log in through the application.
-2. **Dashboard Access:** Users access agricultural services through a centralized dashboard.
-3. **Data Input:** Farmers provide crop details, upload leaf images, or select their location.
-4. **AI Processing:** The backend processes the requests and connects with the relevant machine learning models or external services.
-5. **Result Generation:** The system generates predictions, disease identification results, weather information, and recommendations.
-6. **Marketplace Interaction:** Farmers can explore agricultural products and machinery rental services.
-7. **Decision Making:** Farmers use the generated insights to make better agricultural decisions.
+## 🔄 How It Works
+
+<div align="center">
+
+| Step | Process |
+|:---:|---|
+| 01 | 👤 Farmer registers and logs into the platform |
+| 02 | 📱 Accesses the agricultural dashboard |
+| 03 | 📷 Uploads crop images or enters agricultural details |
+| 04 | 🤖 AI models process the provided information |
+| 05 | 📊 Receives predictions and intelligent insights |
+| 06 | 🌱 Uses the recommendations for better farming decisions |
+
+</div>
+
+---
 
 ## 📂 Project Structure
-
-The following is a suggested high-level project structure. Adjust folder names according to the actual repository.
 
 ```text
 PasumaiAI/
 │
 ├── frontend/
 │   ├── web/
-│   │   ├── app/
-│   │   ├── components/
-│   │   ├── public/
-│   │   └── package.json
-│   │
 │   └── mobile/
-│       ├── src/
-│       ├── assets/
-│       └── package.json
 │
 ├── backend/
-│   ├── main.py
 │   ├── routes/
 │   ├── models/
 │   ├── services/
 │   ├── database/
-│   └── requirements.txt
+│   └── main.py
 │
 ├── ml_models/
 │   ├── price_model.pkl
@@ -181,28 +237,20 @@ PasumaiAI/
 └── README.md
 ```
 
-## ⚙️ Installation and Setup
+*Note: This represents the suggested high-level structure. Update it to match your actual repository.*
 
-### Prerequisites
+---
 
-Make sure you have installed:
+## ⚡ Getting Started
 
-- Node.js and npm
-- Python 3.10+
-- Git
-- MongoDB / PostgreSQL
-- Firebase project configuration
-
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone YOUR_REPOSITORY_URL
 cd PasumaiAI
 ```
 
-### 2. Frontend Setup
-
-Navigate to your web frontend directory:
+### 2️⃣ Frontend Setup
 
 ```bash
 cd frontend/web
@@ -210,104 +258,70 @@ npm install
 npm run dev
 ```
 
-### 3. Backend Setup
-
-Navigate to the backend directory:
+### 3️⃣ Backend Setup
 
 ```bash
 cd backend
-```
 
-Create a virtual environment:
-
-```bash
 python -m venv venv
-```
 
-Activate the environment on Windows:
-
-```bash
 venv\Scripts\activate
-```
 
-Install dependencies:
-
-```bash
 pip install -r requirements.txt
-```
 
-Start the FastAPI server:
-
-```bash
 uvicorn main:app --reload
 ```
 
-### 4. Environment Configuration
+### 4️⃣ Environment Variables
 
-Create a `.env` file and configure the required credentials.
+Create a `.env` file in the appropriate backend directory.
 
 ```env
 DATABASE_URL=your_database_url
-MONGODB_URI=your_mongodb_connection
-FIREBASE_CONFIG=your_firebase_configuration
+MONGODB_URI=your_mongodb_uri
 WEATHER_API_KEY=your_weather_api_key
 ```
 
-Replace the example values with the actual configuration used by your application. Never commit API keys, passwords, or private credentials to GitHub.
+Configure Firebase credentials separately according to your application setup.
 
-## 🔐 Security Features
-
-- User authentication through Firebase Authentication.
-- Environment variables for sensitive configuration.
-- Backend API-based communication.
-- Database-based storage and management.
-- Separation of frontend and backend responsibilities.
-
-## 🌍 Benefits and Impact
-
-- **For Farmers:** Better access to agricultural information and digital services.
-- **For Productivity:** Supports improved crop management and farming decisions.
-- **For Sustainability:** Encourages efficient resource utilization and waste management.
-- **For Marketing:** Helps farmers connect with potential buyers.
-- **For Technology Adoption:** Introduces AI and digital technologies into traditional agriculture.
-
-## 🚀 Future Enhancements
-
-- IoT-based real-time soil moisture monitoring.
-- GPS-based precision farming recommendations.
-- Advanced AI-powered agricultural chatbot.
-- Multilingual voice assistance for farmers.
-- Satellite-based crop monitoring.
-- Advanced crop yield prediction.
-- Integration with additional agricultural market platforms.
-
-## 👨‍💻 Project Information
-
-**Project Name:** PasumaiAI – Intelligent Smart Agriculture Platform
-
-**Domain:** Agriculture, Artificial Intelligence, Machine Learning and Full-Stack Development
-
-**Project Type:** Web and Mobile Application
-
-**Primary Technologies:** React, Next.js, React Native, Python, FastAPI, PostgreSQL, MongoDB and TensorFlow.
-
-## 🤝 Contribution
-
-Contributions, suggestions, and improvements are welcome.
-
-1. Fork the repository.
-2. Create a new feature branch.
-3. Implement your changes.
-4. Commit your changes.
-5. Push your branch.
-6. Submit a pull request.
-
-## 📜 License
-
-This project is developed for educational and development purposes. Add an appropriate open-source license if you intend to distribute the project publicly.
+**Note:** Never upload API keys, passwords, or private credentials to GitHub.
 
 ---
 
-<p align="center">
-  <b>🌱 PasumaiAI – Smart Technology for a Greener Agricultural Future 🌾</b>
-</p>
+## 🌍 Project Impact
+
+<div align="center">
+
+| 🌾 Agriculture | 🤖 Technology | 🌍 Sustainability |
+|:---:|:---:|:---:|
+| Better farming decisions | AI-powered predictions | Resource optimization |
+| Reduced crop losses | Intelligent automation | Waste reduction |
+| Market accessibility | Digital solutions | Sustainable practices |
+
+</div>
+
+---
+
+## 🔮 Future Enhancements
+
+- [ ] IoT-based real-time soil monitoring.
+- [ ] GPS-based precision farming.
+- [ ] AI-powered agricultural chatbot.
+- [ ] Multilingual voice assistance.
+- [ ] Satellite-based crop monitoring.
+- [ ] Advanced crop yield prediction.
+- [ ] Additional agricultural market integrations.
+
+---
+
+## 👨‍💻 Developed With ❤️
+
+<div align="center">
+
+**PasumaiAI – Smart Technology for a Greener Tomorrow**
+
+🌱 *Growing Innovation, Empowering Farmers, Transforming Agriculture.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:34d399&height=120&section=footer" width="100%" />
+
+</div>
